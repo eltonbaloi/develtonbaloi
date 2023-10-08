@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação e inovação tecnologica me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação e inovações tecnologica me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCwbOVG9BEU9dTo_dhbkBm_w" target="_Youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
