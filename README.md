@@ -20,6 +20,6 @@
   <a href="https://www.youtube.com/channel/UCwbOVG9BEU9dTo_dhbkBm_w" target="_Youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elton-baloi-12ab54a7/" target="_Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/develtonbaloi/develtonbaloi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eltonbaloi/develtonbaloi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
